@@ -1,0 +1,17 @@
+WEATHER DATA ANALYSIS SUMMARY
+
+Dataset: data/weatherIndia.csv
+Cleaned Rows: 124
+Key Columns: Date, Temp, Humidity, Rain, Month, Year
+
+Insights:
+- Daily avg temp ranges from 17.88�C to 19.78�C.
+- Most rainy days occur in Month 1.
+- Humidity and temperature show no strong linear correlation � scatter plot confirms this.
+- Yearly max temp peaked in 2024 at 25.10�C.
+
+Anomalies:
+- Some months have very low rainfall (e.g., Month 1 has only 21 rainy days).
+- High humidity does not always mean high temperature � seen in scatter plot.
+
+This analysis can help campus sustainability teams plan energy usage or outdoor events.
